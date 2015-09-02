@@ -1,0 +1,65 @@
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover { 
+	 text-decoration: underline;
+ } 
+html, body {
+    height:100%;
+}
+ 
+
+.header {
+	position: fixed;
+	width: 100%;
+    margin-top: 0px;
+	background-color: #0072C6;
+	height: 50px;
+	margin-bottom: 20px;
+}
+
+.leftbar {
+	float:left;
+	padding-top:50px;
+	width: 200px;
+	height: 100%;
+	background-color: #f0f0f0;
+}
+.searchbar{padding-top: 20px;}
+
+h1{
+    color: white;
+	font-size: 20px;
+}
+.header-right{ color: red;
+	font-size: 20px;
+	float: right;
+}
+
+.container{width:100%;
+padding-top: 100px;
+margin-left: 225px;
+height: 100%;
+position: relative;}
+
+
+.left{float:left; width:25%;}
+.right{float:left; width:25%;}
+.center{float:left; width:25%;}
+
+
+
+
+
+body{
+	margin: 0px;
+	padding-left: 0px;
+	border: 0px;
+	
+}
+
+html, body {
+    height:100%;
+}
